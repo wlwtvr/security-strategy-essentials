@@ -6,7 +6,7 @@
     "debug": "^2.6.9",
     "ejs": "^3.1.2",
     "hoek": "^4.0.0",
-    "npm": "^6.4.1",
+    "npm": "^6.14.6",
     "streaming-json-stringify": "^3.1.0"
   },
   "devDependencies": {
